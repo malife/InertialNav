@@ -1,8 +1,8 @@
 clear all;
-%load('TestLog1.mat')
+load('TestLog1.mat')
 %load('TestLog2.mat')
 %load('TestLog3.mat')
-load('simtest20.mat')
+%load('simtest20.mat')
 
 %% IMU Data
 
